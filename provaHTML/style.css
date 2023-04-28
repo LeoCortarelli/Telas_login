@@ -1,0 +1,76 @@
+body{
+    background-image: url("praia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+ 
+
+.cabecalho{
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    border-color: black;
+}
+
+.cabecalho ul li{
+    margin-left: auto;
+    display: inline;
+    padding-left: 10px;
+}
+
+.Bordadoform{
+    text-align: center;
+    margin-top: 35px;
+    border: 1px solid;
+    width: 400px;
+    margin-left: 700px;
+    padding: 35px;
+    border-radius: 15px;
+}
+
+ 
+
+.checkbox-1{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.checkbox-2{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.nome-style{
+    border-radius: 8px;
+    border: none;
+    padding: 5px;
+}
+.sobrenome-style{
+    border-radius: 8px;
+    border: none; 
+    padding: 5px;
+}
+.idade-style{
+    border-radius: 8px;
+    border: none;
+    padding: 5px;   
+}
+.tipoDoc-style{
+    border-radius: 8px;
+    border: none;
+    padding: 5px;
+}
+.button-stle{
+    border-radius: 8px;
+    border: none;
+    padding: 6px;
+    padding: 5px;
+}
+.doc-style{
+    border-radius: 8px;
+    border: none;
+    padding: 5px;
+}
